@@ -1,4 +1,4 @@
-# **🌶️ Spicy Pricey 🌟**
+# **🌶️ Order Food Online 🌟**
 
 A Swiggy-inspired web application designed to provide a seamless and engaging food ordering experience.
 
@@ -27,7 +27,7 @@ A Swiggy-inspired web application designed to provide a seamless and engaging fo
 -   **Middleware for CORS**:
 
     -   🌐 **CORS Bypass**: Implemented via a custom proxy middleware.
-    -   Repository: [Food Delivery CORS Middleware](https://github.com/sharadindudas/food-delivery-cors).
+   
 
 -   **Authentication**:
 
@@ -35,12 +35,6 @@ A Swiggy-inspired web application designed to provide a seamless and engaging fo
 
 -   **Payment**:
     -   💸 **Razorpay Integration (Frontend)**: Simplifies payment handling on the user side.
-
----
-
-## **🚀 Hosted Link**
-
-👉 Access the live version of **Spicy Pricey** here: [🌶️ Spicy Pricey](https://spicy-pricey.sharadindudas.com)
 
 ---
 
@@ -57,8 +51,8 @@ A Swiggy-inspired web application designed to provide a seamless and engaging fo
 1. **📂 Clone the Repository**
 
     ```bash
-    git clone https://github.com/sharadindudas/spicy-pricey.git
-    cd spicy-pricey
+    git clone https://github.com/JhansiVasireddy/Order-Food_Online.git
+    cd Order-Food_Online
     ```
 
 2. **📦 Install Dependencies**
@@ -69,6 +63,8 @@ A Swiggy-inspired web application designed to provide a seamless and engaging fo
 
 3. **📝 Set Up Environment Variables**  
    Create a `.env` file in the root directory with the following variables:
+   Create a Firebase Project and get the API,ID etc.
+   create Test Razorpay Keys 
 
     ```env
         VITE_FIREBASE_API=<your-firebase-api-key>
@@ -82,8 +78,6 @@ A Swiggy-inspired web application designed to provide a seamless and engaging fo
         VITE_BASE_URL=<your-proxy-middleware-base-url>
     ```
 
-4. **CORS Middleware**:  
-   Clone the CORS middleware repository and follow the instructions provided in the [Food Delivery CORS Middleware](https://github.com/sharadindudas/food-delivery-cors).
 5. **▶️ Start the Development Server**
 
     ```bash
@@ -120,20 +114,16 @@ Contributions are welcome! To contribute:
 
 ---
 
-## **📜 License**
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 ## **📞 Contact**
 
 For queries, feedback, or suggestions, feel free to reach out:
 
--   📧 **Email**: [sharadindudas774@gmail.com](mailto:sharadindudas774@gmail.com)
--   🐙 **GitHub**: [Sharadindu Das](https://github.com/sharadindudas)
+-   📧 **Email**: [JhansiVasireddy250@gmail.com](mailto:JhansiVasireddy250@gmail.com)
+-   🐙 **GitHub**: (https://github.com/JhansiVasireddy)
 
 ---
 
-Elevate your food ordering experience with **🌶️ Spicy Pricey**! 🍽️
+Elevate your food ordering experience with **🌶️ Order Food Online**! 🍽️
 "# Order-Food-Online" 
